@@ -1,0 +1,4 @@
+@EndUserText.label: 'Stock Aging'
+define service ZSD_STOCK_AGING {
+  expose ZCD_FS_STOCK_AGING as StockAging;
+}

@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition'
+define service ZSD_CUSTOMER_AGING_REPORT {
+  expose ZCD_CUSTOMER_AGING_REPORT as CustomerAgingReport;
+}

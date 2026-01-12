@@ -1,0 +1,4 @@
+@EndUserText.label: 'Sales Cum Payment Report'
+define service ZSD_SALES_CUM_PAYMENT {
+  expose ZCD_SALES_CUM_PAYMENT_REPORT as SALESCUMPAYMENT;
+}

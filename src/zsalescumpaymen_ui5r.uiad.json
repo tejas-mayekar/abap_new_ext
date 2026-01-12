@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Sales Cum Payment Report",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Sales Cum Payment Report"
+  },
+  "ui5AppDetails": {
+    "appId": "zsalescumpayment"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_74065F2B7405C348DEE198BCFFC373B36BD3962C_TM",
+    "semanticObject": "Zsalescumpayment",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_74065F2B7405C348DEE198BCFFC373B36BD3962C_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Sales Cum Payment Report"
+      }
+    }
+  ]
+}

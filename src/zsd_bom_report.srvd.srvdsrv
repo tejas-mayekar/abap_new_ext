@@ -1,0 +1,4 @@
+@EndUserText.label: 'BOM report'
+define service ZSD_BOM_REPORT {
+  expose ZCD_BOM_REPORT as BOMReport;
+}

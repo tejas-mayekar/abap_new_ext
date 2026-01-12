@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "BOM Report",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "BOM Report"
+  },
+  "ui5AppDetails": {
+    "appId": "zbomreport"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_E29364FBEF518B0787BDBA609917591BF8C360D1_TM",
+    "semanticObject": "zbomreport",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_E29364FBEF518B0787BDBA609917591BF8C360D1_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "BOM Report"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "BOM Report",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "title": "BOM Report"
+  },
+  "sections": [
+    {
+      "id": "SECTION_1",
+      "title": "BOM Report",
+      "visualizations": [
+        {
+          "id": "SECTION_1_VIZ_1",
+          "ladiAssignment": {
+            "ladiId": "ZBOMREPORT_UI5R",
+            "tileId": "UI5R_E29364FBEF518B0787BDBA609917591BF8C360D1_AL"
+          }
+        }
+      ]
+    }
+  ]
+}

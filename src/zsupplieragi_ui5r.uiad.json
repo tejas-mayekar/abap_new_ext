@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Supplier Aging Report",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Supplier Aging Report"
+  },
+  "ui5AppDetails": {
+    "appId": "supplieragingreport"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_F4BEEF75CC683F0FB6822A6E559321E759FC2119_TM",
+    "semanticObject": "SupplierAgingReport",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_F4BEEF75CC683F0FB6822A6E559321E759FC2119_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Supplier Aging Report"
+      }
+    }
+  ]
+}
